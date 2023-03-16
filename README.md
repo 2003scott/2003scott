@@ -1,5 +1,5 @@
 <div class="header" align="center">
-    <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt=""width="50%">
+    <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt=""width="55%">
     <h2 align="center">Hola 👋 Soy Diego Scott</h2>
     <h1 align="center">Desarrollador de Sistemas</h1>
     
