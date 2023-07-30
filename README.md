@@ -1,7 +1,7 @@
 <div class="header" align="center">
     <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt=""width="55%">
     <h2 align="center">Hola 👋 Soy Diego Scott</h2>
-    <h1 align="center">Desarrollador de Sistemas</h1>
+    <h1 align="center">Developer Junior</h1>
     
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
