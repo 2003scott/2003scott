@@ -1,5 +1,5 @@
 <div class="header" align="center">
-    <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt=""width="55%">
+    <img src="https://raw.githubusercontent.com/BEPb/BEPb/52d6318fc35402ce9860cf3a35eadf85674d636a/assets/Bottom_up.svg" alt=""width="100%">
     <h2 align="center">Hola 👋 Soy Diego Scott</h2>
     <h1 align="center">Developer Junior</h1>
     
