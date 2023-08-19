@@ -1,6 +1,6 @@
 <div class="header" align="center">
     <img src="https://raw.githubusercontent.com/BEPb/BEPb/52d6318fc35402ce9860cf3a35eadf85674d636a/assets/Bottom_up.svg" alt=""width="100%">
-    <h2 align="center">Hola 👋 Soy Diego Scott</h2>
+    <h2 align="center">Hi 👋 I am Diego Scott</h2>
     <h1 align="center">Developer Junior</h1>
     
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
